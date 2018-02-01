@@ -79,6 +79,7 @@ public class GameConsole {
 		return choice;
 	}
 	
+	//Gets menu input
 	private String getChosenMenuInput(){
 		boolean run = true;
 		String option = null;
